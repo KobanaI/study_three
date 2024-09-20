@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KobanaI/test_three/static/css/main.6d91f218.css",
+    "main.js": "/KobanaI/test_three/static/js/main.f0805030.js",
+    "static/js/453.068986ad.chunk.js": "/KobanaI/test_three/static/js/453.068986ad.chunk.js",
+    "index.html": "/KobanaI/test_three/index.html",
+    "main.6d91f218.css.map": "/KobanaI/test_three/static/css/main.6d91f218.css.map",
+    "main.f0805030.js.map": "/KobanaI/test_three/static/js/main.f0805030.js.map",
+    "453.068986ad.chunk.js.map": "/KobanaI/test_three/static/js/453.068986ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d91f218.css",
+    "static/js/main.f0805030.js"
+  ]
+}
